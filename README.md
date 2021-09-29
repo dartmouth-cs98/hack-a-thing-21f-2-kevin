@@ -11,3 +11,7 @@ I have been able to create a hot wallet that accepts and can send out ERC20 toke
 
 What didn’t work
 Setting up environment and dependencies was difficult due to many different required versions of software such as node.js, ganache, truffle, react.
+
+Tutorials:
+https://www.youtube.com/watch?v=XyoFT4QkoL4&t=11s
+https://www.youtube.com/watch?v=CgXQC4dbGUE&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY&index=3
