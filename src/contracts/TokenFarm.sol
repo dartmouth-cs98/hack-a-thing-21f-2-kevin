@@ -37,7 +37,7 @@ contract TokenFarm {
         hasStaked[msg.sender] = true;
     }
 
-    function issueToken() public {
+    function issueTokens() public {
         // Only the owner can call this function
         require(msg.sender == owner, "caller must be the owner");
         // Issue tokens to stakers
